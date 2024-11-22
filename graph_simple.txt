@@ -1,0 +1,3 @@
+n_vertex: 3
+edge_1: 1 2 5
+edge_2: 2 3 10
