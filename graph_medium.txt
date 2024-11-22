@@ -1,0 +1,7 @@
+n_vertex: 5
+edge_1: 1 2 6
+edge_2: 1 3 10
+edge_3: 2 4 4
+edge_4: 3 4 8
+edge_5: 4 5 7
+edge_6: 3 5 12
